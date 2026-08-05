@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "lame"]
+	path = lame
+	url = https://github.com/netify-dev/lame
 [submodule "netify"]
 	path = netify
 	url = https://github.com/netify-dev/netify
